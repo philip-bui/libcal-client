@@ -1,0 +1,23 @@
+[
+  {
+    "lid": 3330,
+    "name": "Fisher Library",
+    "categories": [
+      {
+        "cid": 5666,
+        "name": "Fisher Library Media Rooms",
+        "formid": 0
+      },
+      {
+        "cid": 5670,
+        "name": "Fisher Library Study Rooms",
+        "formid": 0
+      },
+      {
+        "cid": 5680,
+        "name": "Fisher Library Book-a-Desk",
+        "formid": 0
+      }
+    ]
+  }
+]

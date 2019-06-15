@@ -1,0 +1,72 @@
+[
+  {
+    "lid": 3341,
+    "name": "Staff meeting and training rooms",
+    "public": 0
+  },
+  {
+    "lid": 3332,
+    "name": "Bosch Commons",
+    "public": 1,
+    "formid": 1150
+  },
+  {
+    "lid": 3333,
+    "name": "Camden Commons",
+    "public": 0,
+    "formid": 1150
+  },
+  {
+    "lid": 3334,
+    "name": "Conservatorium Library",
+    "public": 1,
+    "formid": 1148
+  },
+  {
+    "lid": 3335,
+    "name": "Dentistry Library",
+    "public": 1,
+    "formid": 1150
+  },
+  {
+    "lid": 3330,
+    "name": "Fisher Library",
+    "public": 1,
+    "formid": 1150
+  },
+  {
+    "lid": 3336,
+    "name": "Health Sciences Library",
+    "public": 1,
+    "formid": 1150
+  },
+  {
+    "lid": 3331,
+    "name": "Law Library",
+    "public": 1,
+    "formid": 1150
+  },
+  {
+    "lid": 3337,
+    "name": "Nursing Library",
+    "public": 1,
+    "formid": 1150
+  },
+  {
+    "lid": 3338,
+    "name": "The Quarter",
+    "public": 1,
+    "formid": 1150
+  },
+  {
+    "lid": 3329,
+    "name": "SciTech Library",
+    "public": 1,
+    "formid": 1150
+  },
+  {
+    "lid": 3340,
+    "name": "ThinkSpace",
+    "public": 1
+  }
+]

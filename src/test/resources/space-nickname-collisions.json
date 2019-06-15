@@ -1,0 +1,61 @@
+[
+  {
+    "categories": [
+      {
+        "cid": 5669,
+        "name": "Law Library Study Rooms",
+        "nickname_label": "Please enter a booking title",
+        "spaces": [
+          {
+            "id": 21354,
+            "name": "Law Group Study Room M103",
+            "bookings": [
+              {
+                "nickname": "s",
+                "start": "2019-08-06T09:00:00+10:00",
+                "end": "2019-08-06T11:00:00+10:00",
+                "created": "2019-08-05T01:02:01+10:00",
+                "booking_id": "cs_E6kmVyFb"
+              },
+              {
+                "nickname": "MAr",
+                "start": "2019-08-06T11:00:00+10:00",
+                "end": "2019-08-06T12:30:00+10:00",
+                "created": "2019-08-05T16:00:39+10:00",
+                "booking_id": "cs_qkbXvAUP"
+              },
+              {
+                "nickname": "Mar",
+                "start": "2019-08-06T12:30:00+10:00",
+                "end": "2019-08-06T14:30:00+10:00",
+                "created": "2019-08-05T15:16:52+10:00",
+                "booking_id": "cs_oXOkvMuD"
+              },
+              {
+                "nickname": "yk",
+                "start": "2019-08-06T14:30:00+10:00",
+                "end": "2019-08-06T16:30:00+10:00",
+                "created": "2019-08-02T23:28:03+10:00",
+                "booking_id": "cs_PpVpBrU2"
+              },
+              {
+                "nickname": "yk",
+                "start": "2019-08-06T16:30:00+10:00",
+                "end": "2019-08-06T18:30:00+10:00",
+                "created": "2019-08-03T00:02:04+10:00",
+                "booking_id": "cs_d7V76Osy"
+              },
+              {
+                "nickname": "The bookings for the Finance trading app",
+                "start": "2019-08-06T19:00:00+10:00",
+                "end": "2019-08-06T21:00:00+10:00",
+                "created": "2019-08-06T00:07:36+10:00",
+                "booking_id": "cs_G3OAB2ce"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
