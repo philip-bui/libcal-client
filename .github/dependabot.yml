@@ -1,0 +1,24 @@
+version: 2
+updates:
+- package-ecosystem: maven
+  directory: "/"
+  schedule:
+    interval: daily
+    time: "19:00"
+  open-pull-requests-limit: 99
+  reviewers:
+  - philip-bui
+  assignees:
+  - philip-bui
+  labels:
+  - dependencies
+  ignore:
+  - dependency-name: org.junit.jupiter:junit-jupiter-engine
+    versions:
+    - 5.7.0
+  - dependency-name: org.junit.jupiter:junit-jupiter-api
+    versions:
+    - 5.7.0
+  - dependency-name: com.fasterxml.jackson.core:jackson-databind
+    versions:
+    - 2.11.2
